@@ -1,6 +1,5 @@
-#define SUB(num1,num2) ((num1)-(num2))
-
 #include <iostream>
+#define SUB(num1,num2) ((num1)-(num2))
 
 int main()
 {

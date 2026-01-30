@@ -1,3 +1,4 @@
+#include <iostream>
 #define MODE 1
 #ifndef MODE
 #error Нужно определить MODE
@@ -8,7 +9,6 @@ int add(int a, int b)
     return a + b;
 }
 #endif
-#include <iostream>
 
 int main()
 {
